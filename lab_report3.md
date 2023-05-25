@@ -42,4 +42,4 @@ Alternative Command 4: ```grep -l```
 
 
 ![Image 5-24-23 at 11 06 PM](https://github.com/oRyLee/Lab-Report-3/assets/130015533/4e030aec-1d00-4326-bfc7-6ef21a2bfcec)
-chapter-3.txt
+
